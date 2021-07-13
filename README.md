@@ -21,6 +21,6 @@ This is a basic task app. Tasks can be entered into a field and then displayed i
 ### TicTacToe
 This is a game of Tic Tac Toe against the "computer." It has basic animations, sound effects, and resets when the game is over. The "computer" plays by picking a random number associated with each square.
 ### Calculator
-This is a functioning calculator, as it does all the basic operations of a calculator.
+This is a basic functioning calculator. It can do the 4 main operations: add, subtract, multiply, and divide.
 ### Pizza Menu
 This is a pizza menu that allows you to pick a size of pizza as welll as the meat and vegetable toppings. After selecting your choices and clicking the "Place Order" button, a receipt will be displayed. The receipt contains the items selected and the total price of the pizza.
