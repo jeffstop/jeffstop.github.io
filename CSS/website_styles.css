@@ -26,7 +26,7 @@ h1 {
     text-transform: uppercase;  /* Capitalizing all h1 headings */
     font-family: "Trebuchet MS", Optima;    /* Sets font family for all h1 headings */
     text-align: center;     /* Centers all h1 elements */
-    margin-top: 3%;     /* Adds a small margin above h1 elements */
+    margin-top: 0.5%;     /* Adds a small margin above h1 elements */
     color: #1a1a1a;
 }
 
