@@ -322,7 +322,7 @@ footer {
     width: 50%; /* Ensures column takes up half the page width */
     padding: 1.6%;
     height: 450px;
-    background-color: #00F4FF;  /* Sets background color of the left column */
+    background-color: #ACA7CB;  /* Sets background color of the top left and bottom right column */
 }
 
 /* Right column */
@@ -331,7 +331,7 @@ footer {
     width: 50%;
     padding: 1.6%;
     height: 450px;
-    background-color: #8584E7;
+    background-color: #474554;
 }
 
 /* Media Queries */
