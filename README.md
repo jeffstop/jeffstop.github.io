@@ -25,7 +25,7 @@ This is a basic functioning calculator. It can do the 4 main operations: add, su
 ### Pizza Menu
 This is a pizza menu that allows you to pick a size of pizza as welll as the meat and vegetable toppings. After selecting your choices and clicking the "Place Order" button, a receipt will be displayed. The receipt contains the items selected and the total price of the pizza.
 # Python Projects
-Below are some of my Python Projects. The rest can be found here: [Python Projects](https://github.com/jeffstop/Python_Projects)
+Below are some of my Python Projects. The rest can be found here: [Python Projects](https://github.com/jeffstop/Python_Projects). These projects use various modules such as tkinter or sqlite3.
 * [Django Checkbook](https://github.com/jeffstop/Python_Projects/tree/main/Django_Checkbook)
 * [File Transfer](https://github.com/jeffstop/Python_Projects/tree/main/File%20Transfer)
 * [Nice or Mean](https://github.com/jeffstop/Python_Projects/tree/main/Nice%20or%20Mean)
